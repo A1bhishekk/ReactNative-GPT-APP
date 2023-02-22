@@ -25,7 +25,7 @@ const ChatGPT = () => {
          setData([...data, {type:"user","text":textInput}, {type:"bot", "text":text}]) 
          setTextInput('')
     }
-    
+    🤖🐰🐭
   return (
     <View style={styles.container}>
       <Text style={styles.title}>Abhi AI Chat</Text>
